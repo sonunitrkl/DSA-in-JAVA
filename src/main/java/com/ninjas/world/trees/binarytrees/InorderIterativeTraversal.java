@@ -19,7 +19,9 @@ public class InorderIterativeTraversal {
             }
             currentNode = stack.pop();
             System.out.println(currentNode);
-            stack.push(currentNode.rightNode);
+            if(currentNode.rightNode != null){
+                stack.push(currentNode.rightNode);
+            }
         }
     }
 }
