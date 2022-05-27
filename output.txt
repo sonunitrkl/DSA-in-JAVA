@@ -1,0 +1,11 @@
+delete from customer_meta_data where id = 11345;
+delete from customer_meta_data where id = 2345;
+delete from customer_meta_data where id = 765;
+delete from customer_meta_data where id = 654;
+delete from customer_meta_data where id = 765;
+delete from customer_meta_data where id = 98;
+delete from customer_meta_data where id = 8765;
+delete from customer_meta_data where id = 5645;
+delete from customer_meta_data where id = 675645;
+delete from customer_meta_data where id = 75643;
+delete from customer_meta_data where id = null;
